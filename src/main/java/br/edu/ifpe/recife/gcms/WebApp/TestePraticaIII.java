@@ -9,7 +9,8 @@ public class TestePraticaIII {
 	
 	@RequestMapping("/Pratica3") 
 	public @ResponseBody String greeting() { 
-	return "Alteração da prática 3!"; 
+	return "fazer junção no GITHUB!"; 
 	} 
+	//irei fazer um comentário e mudar aqui antes de fazer a juncao
 	}
 
