@@ -7,9 +7,9 @@ import org.springframework.web.bind.annotation.ResponseBody;
 @Controller
 public class TestePraticaIII {
 	
-	@RequestMapping("/Juncao") 
+	@RequestMapping("/pratica") 
 	public @ResponseBody String greeting() { 
-	return "fazer juncao de de clone e original"; 
+	return "fazer juncao de clone e original"; 
 	} 
 	//irei fazer um comentário e mudar aqui antes de fazer a juncao
 	}
