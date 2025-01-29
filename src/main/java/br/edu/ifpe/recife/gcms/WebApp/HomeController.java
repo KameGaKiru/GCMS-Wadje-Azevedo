@@ -13,4 +13,5 @@ return "Hello, Wadje!";
 public @ResponseBody String greeting() { 
 return "Hello, Wadje (hotfix)!"; 
 } 
+
 }
