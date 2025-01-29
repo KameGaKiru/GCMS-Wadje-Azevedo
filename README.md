@@ -5,3 +5,4 @@ Colaboradores
 Coloque seu nome abaixo se você é um dos colaboradores do repositório:
 
 * Wadje Rogaciano (@KameGaKiru)
+* Ramide Dantas (@ramidedantas)
